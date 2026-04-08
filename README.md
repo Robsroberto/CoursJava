@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/logo_isi.jpg" height="60" alt="ISI"/>
+  &nbsp;&nbsp;
+  <img src="assets/logo_cours.webp" height="60" alt="Cours"/>
+</p>
+
 # ☕ Cours Java — ISI
 
 > **Formateur :** Robert | **Établissement :** ISI (Institut Supérieur d'Informatique)
