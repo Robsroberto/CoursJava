@@ -15,10 +15,15 @@ Ce dépôt couvre le langage Java : des bases procédurales jusqu'à la Programm
 
 ## 📚 Supports de cours
 
-| Support | Lien |
-|---------|------|
-| Modularité Java | [📄 cours/6-modulariteJava.pdf](cours/6-modulariteJava.pdf) |
-| POO Java | [📄 cours/7-javaPOO.pdf](cours/7-javaPOO.pdf) |
+| # | Chapitre | Lien |
+|---|----------|------|
+| 1 | Introduction à Java | [📄 cours/1-introJava.pdf](cours/1-introJava.pdf) |
+| 2 | Variables, constantes & types | [📄 cours/2-var_cont_type_JAVA.pdf](cours/2-var_cont_type_JAVA.pdf) |
+| 3 | Structures de contrôle | [📄 cours/3-Struc_cont.pdf](cours/3-Struc_cont.pdf) |
+| 4 | Les tableaux | [📄 cours/4-tableau_JAVA.pdf](cours/4-tableau_JAVA.pdf) |
+| 5 | Chaînes de caractères | [📄 cours/5-chaine_carscJAVA.pdf](cours/5-chaine_carscJAVA.pdf) |
+| 6 | Modularité Java | [📄 cours/6-modulariteJava.pdf](cours/6-modulariteJava.pdf) |
+| 7 | Programmation Orientée Objet | [📄 cours/7-javaPOO.pdf](cours/7-javaPOO.pdf) |
 
 ---
 
